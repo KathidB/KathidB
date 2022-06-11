@@ -23,7 +23,8 @@ Shortly, I plan to constantly improve my skills and soon start learning React. G
 - 🌱 I am currently learning Javascript and will soon start learning React  
   
 
-- ❓ Contact me via this email: kathidb@gmail.com  
+- ❓ Contact me via this email: kathidbb@gmail.com  
+
 
 
 
