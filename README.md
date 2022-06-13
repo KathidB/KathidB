@@ -4,15 +4,19 @@
 
 
 ### Glad to see you here!  
-I enjoy doing things on the computer that are challenging, and I think being a programmer is one of them. I spend my free time learning Front-End and developing my skills doing smaller projects using HTML/CSS and JS, the latter of which gives me the most pleasure.
+I enjoy doing things on the computer that are challenging, and I think being a programmer is one of them.
+<br>
+I spend my free time learning Front-End and developing my skills doing smaller projects using HTML/CSS and JS, the latter of which gives me the most pleasure.
 
-The team which decides to take me in their ranks will gain a very motivated person to work and learn. Front-End still has many mysteries before me, but I carefully pursue my goal to change the industry.
+The team which decides to take me in their ranks will gain a very motivated person to work and learn.
+<br>Front-End still has many mysteries before me, but I carefully pursue my goal to change the industry.
 
-Shortly, I plan to constantly improve my skills and soon start learning React. Gaining commercial experience would be an excellent opportunity for me to grow.  
-  
+Shortly, I plan to constantly improve my skills and soon start learning React.
+<br>Gaining commercial experience would be an excellent opportunity for me to grow.  
+
 
 <br/>  
-
+  I am ready to start working immediately
 
 ## About Me
 <table><tr><td valign="top" width="100%">
