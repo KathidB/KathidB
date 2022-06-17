@@ -24,7 +24,7 @@ Shortly, I plan to constantly improve my skills and soon start learning React.
 - 🔭 I’m currently working on my [Portfolio](https://kathidb.github.io/portfolio)  
   
 
-- 🌱 I am currently learning Javascript and will soon start learning React  
+- 🌱 I'm currently learning Javascript and will soon start learning React  
   
 
 - ❓ Contact me via this email: kathidbb@gmail.com  
