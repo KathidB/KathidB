@@ -1,7 +1,6 @@
 ## Hey 👋, I'm Bogusz!  
-  
 
-
+All my designs are constantly refined and still being worked on. The designs in the portfolio are focused on functionality, and it was not a priority for them to look good at the current stage of production. 
 
 ### Glad to see you here!  
 I enjoy doing things on the computer that are challenging, and I think being a programmer is one of them.
