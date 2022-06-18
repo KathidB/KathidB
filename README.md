@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Bogusz!  
 
-All my designs are constantly improved and still being worked on. The designs in the portfolio are focused on functionality, and it was not a priority for them to look good visually at the current stage of production. 
 
 ### Glad to see you here!  
 I enjoy doing things on the computer that are challenging, and I think being a programmer is one of them.
@@ -12,6 +11,10 @@ The team which decides to take me in their ranks will gain a very motivated pers
 
 Shortly, I plan to constantly improve my skills and soon start learning React.
 <br>Gaining commercial experience would be an excellent opportunity for me to grow.  
+
+### Projects
+
+All my designs are constantly improved and still being worked on. The designs in the portfolio are focused on functionality, and it was not a priority for them to look good visually at the current stage of production. 
 
 
 <br/>  
