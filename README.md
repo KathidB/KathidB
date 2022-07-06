@@ -2,7 +2,7 @@
 
 Lubię wykonywać na komputerze rzeczy, które są sporym wyzwaniem i uważam, że bycie programistą jest jednym z nich. Obecnie poświęcam swój wolny czas na naukę Front-Endu i rozwijam swoje umiejętności wykonując pomniejsze projekty przy pomocy HTML/CSS i JS, z którego ten ostatni daje mi najwięcej przyjemności.
 
-W najbliższym czasie planuję wciąż udoskonalać moje umiejętności i niedługo rozpocząć naukę Reacta. Zdobycie zatrudnienia w IT byłoby dla mnie ogromną szansą na rózwój, dalszą naukę i dałoby mi możliwość wykorzystania zdobytej wiedzy w praktyce.
+W najbliższym czasie planuję wciąż udoskonalać moje umiejętności i rozpocząć nauke Reacta. Zdobycie zatrudnienia w IT byłoby dla mnie ogromną szansą na rózwój, dalszą naukę i dałoby mi możliwość wykorzystania zdobytej wiedzy w praktyce.
 
 Zespół, który zdecyduje się na przyjęcie mnie w swoje szeregi zyska bardzo zmotywowaną do działania i nauki osobę. Front-End posiada przede mną jeszcze wiele tajemnic ale starannie dążę do celu.
 
