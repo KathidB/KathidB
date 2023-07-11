@@ -7,20 +7,14 @@ W najbliższym czasie planuję wciąż udoskonalać moje umiejętności i rozpoc
 Zespół, który zdecyduje się na przyjęcie mnie w swoje szeregi zyska bardzo zmotywowaną do działania i nauki osobę. Front-End posiada przede mną jeszcze wiele tajemnic ale starannie dążę do celu.
 
 ### Glad to see you here!  
-I enjoy doing things on the computer that are challenging, and I think being a programmer is one of them.
-<br>
-I spend my free time learning Front-End and developing my skills doing smaller projects using HTML/CSS and JS, the latter of which gives me the most pleasure.
+I enjoy doing challenging tasks on the computer, and I believe that being a programmer is one of them. During my free time, I focus on learning Front-End development and honing my skills by working on smaller projects using HTML/CSS and JavaScript, with the latter being the most enjoyable for me.
 
-The team which decides to take me in their ranks will gain a very motivated person to work and learn.
-<br>Front-End still has many mysteries before me, but I carefully pursue my goal to change the industry.
+A team that decides to include me will gain a highly motivated individual who is eager to work and learn. Although Front-End development still holds many mysteries for me, I am dedicated to pursuing my goal of driving change within the industry.
 
-Shortly, I plan to constantly improve my skills and soon start learning React.
-<br>Gaining commercial experience would be an excellent opportunity for me to grow.  
-
-### Projects
-
-All my designs are constantly improved and still being worked on. The designs in the portfolio are focused on functionality, and it was not a priority for them to look good visually at the current stage of production. 
-
+In the near future, my plan is to continuously improve my skills and embark on learning React. Gaining commercial experience would provide an excellent opportunity for personal growth.
+<br/>  
+Projects:
+All of my designs are constantly evolving and still in progress. The designs in my portfolio prioritize functionality, and visual aesthetics are not currently the primary focus during the production stage.
 
 <br/>  
   I am ready to start working immediately
