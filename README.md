@@ -1,11 +1,5 @@
 ## Hey 👋, I'm Bogusz!  
 
-Lubię wykonywać na komputerze rzeczy, które są sporym wyzwaniem i uważam, że bycie programistą jest jednym z nich. Obecnie poświęcam swój wolny czas na naukę Front-Endu i rozwijam swoje umiejętności wykonując pomniejsze projekty przy pomocy HTML/CSS i JS, z którego ten ostatni daje mi najwięcej przyjemności.
-
-W najbliższym czasie planuję wciąż udoskonalać moje umiejętności i rozpocząć nauke Reacta. Zdobycie zatrudnienia w IT byłoby dla mnie ogromną szansą na rózwój, dalszą naukę i dałoby mi możliwość wykorzystania zdobytej wiedzy w praktyce.
-
-Zespół, który zdecyduje się na przyjęcie mnie w swoje szeregi zyska bardzo zmotywowaną do działania i nauki osobę. Front-End posiada przede mną jeszcze wiele tajemnic ale starannie dążę do celu.
-
 ### Glad to see you here!  
 I enjoy tackling challenging tasks on the computer, and I believe that being a programmer is one of them. During my free time, I focus on learning Front-End development and honing my skills by working on smaller projects using HTML/CSS and JavaScript, with the latter being the most enjoyable for me.
 
@@ -28,27 +22,11 @@ Projects: All of my designs are constantly evolving and still a work in progress
 - 🌱 I'm currently learning Javascript and will soon start learning React  
   
 
-- ❓ Contact me via this email: kathidbb@gmail.com  
-
-
-
-
-
-
+- ❓ Contact me via this email: bogusz.it@gmail.com  
 
 </table>  
 
 <br/>  
 
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />  
-</div>  
-
-<br/>  
 
 
