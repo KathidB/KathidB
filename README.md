@@ -5,10 +5,7 @@ I enjoy tackling challenging tasks on the computer, and I believe that being a p
 
 A team that chooses to include me will gain a highly motivated individual who is eager to work and learn. Although Front-End development still holds many mysteries for me, I am dedicated to pursuing my goal of driving change within the industry.
 
-In the near future, my plan is to continually improve my skills and embark on learning React. Gaining commercial experience would provide an excellent opportunity for personal growth.
-
-Projects: All of my designs are constantly evolving and still a work in progress. The designs in my portfolio prioritize functionality, and visual aesthetics are not currently the primary focus during the production stage.
-
+Currently, I'm expanding my skills by learning and coding in React.
 
 <br/>  
   I am ready to start working immediately
@@ -19,7 +16,7 @@ Projects: All of my designs are constantly evolving and still a work in progress
 - 🔭 I’m currently working on my [Portfolio](https://kathidb.github.io/portfolio)  
   
 
-- 🌱 I'm currently learning Javascript and will soon start learning React  
+- 🌱 I'm currently learning React.
   
 
 - ❓ Contact me via this email: bogusz.it@gmail.com  
