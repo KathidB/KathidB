@@ -9,7 +9,7 @@ Currently, I'm expanding my skills by learning and coding in React.
 ## About Me
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on my [Portfolio]([https://kathidb.github.io/portfolio](https://main--iridescent-tanuki-9b4851.netlify.app/))  
+- 🔭 I’m currently working on https://github.com/KathidB/Little-Lemon-Restaurant
   
 
 - 🌱 I'm currently learning React.
