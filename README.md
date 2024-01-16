@@ -1,10 +1,9 @@
-## Hey 👋, I'm Bogusz!  
+## Hey 👋
 
-### Glad to see you here!  
-Currently, I'm expanding my skills by learning and coding in React.
 
-<br/>  
-  I am ready to start working immediately
+Obecnie ucze się i piszę projekty w React.
+
+W repozytoriach znajdują się wersję Live każdego mojego projektu.
 
 ## About Me
 <table><tr><td valign="top" width="100%">
