@@ -5,7 +5,7 @@ Obecnie ucze się i piszę projekty w React.
 W repozytoriach znajdują się wersję Live każdego mojego projektu.
 
 
-- 🔭 I’m currently working on [Bet With Friends](http://130.162.44.103/)
+- 🔭 I’m currently working on [Bet With Friends](https://github.com/KathidB/bet-with-friends)
 
 - 🌱 I’m currently learning **React**
 
