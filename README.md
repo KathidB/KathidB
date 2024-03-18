@@ -43,4 +43,3 @@ W repozytoriach znajdują się wersję Live każdego mojego projektu.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KathidB/KathidB/output/snake.svg" alt="Snake animation" />
