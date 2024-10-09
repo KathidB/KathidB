@@ -16,7 +16,7 @@ W repozytoriach znajdują się wersję Live każdego mojego projektu.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KathidB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/7a/26/24/7a2624c6762fa4775852ef6f1d5af1fb.gif"  />
 
