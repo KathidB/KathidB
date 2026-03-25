@@ -6,7 +6,7 @@ W repozytoriach znajdują się wersję Live każdego mojego projektu.
 
 - 🔭 I’m currently working on [Bet With Friends](https://github.com/KathidB/bet-with-friends)
 - 🔭 I’m currently working on [Sklep]( https://github.com/MichalMotyka/SUMA-SKLEP)
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python + FastAPI, Angular, SQL **
 - 📫 How to reach me **bogusz.it@gmail.com**
 
 ###
