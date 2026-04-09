@@ -4,7 +4,8 @@
 Student informatyki · uczę się Python, Flask, SQL <br/>
 Dotychczasowe projekty: React, HTML, CSS, JS
 </p>
----
+
+
 ## 🚀 Projekty
 
 **⚙️ Flask CRUD(mini app)**
