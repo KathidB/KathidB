@@ -4,10 +4,16 @@
 Student informatyki · uczę się Python, Flask, SQL <br/>
 Dotychczasowe projekty: React, HTML, CSS, JS
 </p>
-
 ---
-
 ## 🚀 Projekty
+
+**⚙️ Flask CRUD(mini app)**
+Aplikacja backendowa we Flasku z GET, POST, PUT, DELETE.  
+Aplikacja pozwala zarządzać użytkownikami. 
+
+**Tech:** Python, Flask, REST API, JS, HTML, CSS  
+🌐 https://flask-693r.onrender.com/  
+💻 https://github.com/KathidB/python  
 
 **🎯 Bet With Friends**  
 Interaktywna platforma do typowania wyników rozgrywek piłki nożnej z rankingiem użytkowników.  
