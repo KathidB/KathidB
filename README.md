@@ -1,8 +1,8 @@
 <h2 align="center">Cześć 👋, jestem Bogusz</h2>
 
 <p align="center">
-Student informatyki · uczę się Python<br/>
-Projekty: React, HTML, CSS, JS
+Student informatyki · uczę się Python, Flask, SQL <br/>
+Dotychczasowe projekty: React, HTML, CSS, JS
 </p>
 
 ---
@@ -63,27 +63,7 @@ bogusz.it@gmail.com
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KathidB&show_icons=true&theme=dracula" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KathidB&layout=compact&theme=dracula" height="140"/>
-</div>
-
-<br/>
 
 <img align="right" height="130" src="https://i.pinimg.com/originals/7a/26/24/7a2624c6762fa4775852ef6f1d5af1fb.gif"/>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="26"/>
-</div>
 
 <br clear="both">
