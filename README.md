@@ -10,8 +10,8 @@ Projekty: React, HTML, CSS, JS
 ## 🚀 Projekty
 
 **🎯 Bet With Friends**  
-Interaktywna platforma do typowania wyników i rankingu użytkowników.  
-<b>Zespół:</b> frontend (ja) + backend (druga osoba)  
+Interaktywna platforma do typowania wyników rozgrywek piłki nożnej z rankingiem użytkowników.  
+<b>Praca zespołowa:</b>  
 <b>Tech:</b> React, Python, Flask, GraphQL, PostgreSQL, Docker, JS  
 https://github.com/KathidB/bet-with-friends  
 
@@ -56,7 +56,7 @@ https://kathidb.github.io/portfolio/
 ---
 
 ## 🌱 Nauka
-Python · FastAPI · Angular · SQL  
+Python · Flask · Angular · SQL  
 
 ## 📫 Kontakt
 bogusz.it@gmail.com  
