@@ -50,7 +50,7 @@ https://kathidb.github.io/minigames/
 
 ---
 
-**💬 Discord Clone (Frontend)**  
+**💬 Discord Mockup (Frontend)**  
 Frontend aplikacji inspirowanej Discordem (projekt edukacyjny)  
 🟢 produkcja  
 https://edu-discord.netlify.app/  
@@ -63,7 +63,7 @@ https://kathidb.github.io/portfolio/
 ---
 
 ## 🌱 Nauka
-Python · Flask · Angular · SQL  
+Python · Flask · SQL  
 
 ## 📫 Kontakt
 bogusz.it@gmail.com  
