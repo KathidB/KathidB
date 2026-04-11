@@ -1,7 +1,7 @@
 <h2 align="center">Cześć 👋, jestem Bogusz</h2>
 
 <p align="center">
-Student informatyki · uczę się Python, Flask, SQL <br/>
+Student informatyki · uczę się Python, Flask, SQL i Angular <br/>
 Dotychczasowe projekty: React, HTML, CSS, JS
 </p>
 
