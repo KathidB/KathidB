@@ -12,7 +12,7 @@ Aplikacja backendowa we Flasku z GET, POST, PUT, DELETE.
 Aplikacja pozwala zarządzać użytkownikami. 
 
 **Tech:** Python, Flask, REST API, Angular, HTML, CSS  
-🌐 https://flask-693r.onrender.com/  
+🌐 https://chimerical-begonia-7629e8.netlify.app/ 
 💻 https://github.com/KathidB/python  
 
 ---
